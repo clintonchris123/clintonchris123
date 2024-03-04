@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Clinton Christovel Simanullang
+- ⚡ Fun fact: I Love Watching Film
 <!--
 **clintonchris123/clintonchris123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
