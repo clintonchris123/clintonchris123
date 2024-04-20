@@ -582,6 +582,10 @@ video {
   position: fixed;
 }
 
+.relative {
+  position: relative;
+}
+
 .bottom-0 {
   bottom: 0px;
 }
@@ -1243,6 +1247,10 @@ video {
 
   .lg\:w-\[32\.5\%\] {
     width: 32.5%;
+  }
+
+  .lg\:w-\[3\.5\%\] {
+    width: 3.5%;
   }
 
   .lg\:flex-col {
