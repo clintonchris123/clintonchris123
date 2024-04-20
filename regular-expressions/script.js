@@ -23,7 +23,7 @@
 
         let regexInputnamaClinton = document.getElementById("inputnama");
         let clintonValidasinama = document.getElementById("validasinama");
-        const REGEX_NAME = new RegExp("^[a-zA-Z]{2,}$");
+        const REGEX_NAME = new RegExp("^[a-zA-Z ]{2,}$");
         regexInputnamaClinton.addEventListener("input", function () {
         if (regexInputnamaClinton.value === "") {
             clintonValidasinama.innerHTML = "Coba isi";
