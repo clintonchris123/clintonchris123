@@ -36,7 +36,7 @@
             clintonValidasinama.classList.remove("text-red-600");
             clintonValidasinama.classList.remove("text-blue-600");
         } else {
-            clintonValidasinama.innerHTML = "Coba lagi, harus menggunakan huruf minimal 2 karakter tidak boleh angka";
+            clintonValidasinama.innerHTML = "Coba lagi, harus menggunakan minimal 2 huruf tidak boleh angka atau karakter";
             clintonValidasinama.classList.add("text-red-600");
             clintonValidasinama.classList.remove("text-blue-600");
             clintonValidasinama.classList.remove("text-green-600");
